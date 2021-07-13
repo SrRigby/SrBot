@@ -19,8 +19,8 @@
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Rigby-bot
+git clone https://github.com/SrRigby/SrBot
+cd SrBot
 bash install.sh
 
 (iniciar o bot manualmente)
@@ -37,7 +37,7 @@ pm2 start index.js
 # 🙋‍♂️ Como ser proprietário do bot
 ```
 cd
-cd Rigby-bot
+cd SrBot
 pkg install mc
 mc
 
